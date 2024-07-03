@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Moments on </title>
+    <link>/moments/</link>
+    <description>Recent content in Moments on </description>
+    <generator>Hugo</generator>
+    <language>zh-Hans</language>
+    <lastBuildDate>Thu, 04 Jul 2024 01:04:24 +0800</lastBuildDate>
+    <atom:link href="/moments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/moments/your_moment_name/</link>
+      <pubDate>Thu, 04 Jul 2024 01:04:24 +0800</pubDate>
+      <guid>/moments/your_moment_name/</guid>
+      <description>您好，我叫 Lucy，欢迎来到这里！很高兴为您介绍一下 Moments，一款为短博文设计的 Hugo 主题。&#xA;我和另一位向导 Frank 将携手为您介绍 Moments 主题的特色功能。&#xA;希望您能喜欢～&#xA;(后面的介绍中，我们把一条发布的内容称之为一条 Moment。)</description>
+    </item>
+  </channel>
+</rss>
